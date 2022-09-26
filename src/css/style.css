@@ -167,6 +167,10 @@ section span {
   gap: 3rem;
 }
 
+.nameRepo {
+  font-size: 1.6rem;
+}
+
 .repo .name-project {
   display: flex;
   align-items: center;
@@ -203,6 +207,10 @@ i.HTML {
 
 i.JavaScript {
   color: #f1e05a;
+}
+
+i.TypeScript {
+  color: #3178c6;
 }
 
 .language.null {
